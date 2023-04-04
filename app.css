@@ -1,0 +1,100 @@
+*{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+}
+
+
+
+
+
+.budget{
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+    
+}
+
+
+.container{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+}
+
+.play{
+width: 100px;
+height: 100px;
+padding: 25px;
+margin: 20px;
+color: blue;
+display: block;
+background-color: coral;
+}
+
+.call{
+width: 100px;
+padding: 25px;
+margin: 20px;
+color: black;
+display: block;
+background-color: beige;
+}
+
+.main{
+width: 100px;
+height: 100px;
+margin: 20px;
+padding: 25px;
+display: block;
+background-color: aqua;
+color: brown;
+}
+
+.conts{
+width: 100px;
+height: 100px;
+margin: 20px;
+padding: 25px;
+display: block;
+background-color: darksalmon;
+color: whitesmoke;
+}
+
+.man{
+DI
+}
+
+
+
+
+
+.odd{
+    background-color: goldenrod;
+}
+
+.mean{
+    background-color: white;
+}
+
+.court{
+    background-color: aqua;
+}
+
+.yes{
+    background-color: coral;
+}
+
+.trap{
+    background-color: lightgreen;
+}
+
+.target-main{
+    background-color: khaki;
+}
+
+.list-group{
+    width: 100px;
+    height: 100px;
+}
